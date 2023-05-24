@@ -1,1 +1,2 @@
 this is second chapter.
+to come here you have to know the concepts from chapter1
